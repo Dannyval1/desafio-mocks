@@ -1,0 +1,60 @@
+.general-page{
+    margin: 20px 0;
+}
+
+.products-input{
+    background-color: #e8ecef;
+    padding: 25px;
+    border-radius: 8px;
+}
+
+.title-form{
+    text-align: center;
+}
+
+.product-list{
+    background-color: #343a40;
+}
+
+.title-product{
+    color: white;
+    text-align: center;
+}
+
+p{
+    margin-bottom: 0;
+}
+
+.product-data{
+    color: white;
+    text-align: center;
+}
+
+.chat{
+    background-color: #363636;
+    color: white;
+    padding: 30px 0;
+}
+.input_chat{
+    width: 100%;
+}
+
+.img-prod{
+    width: 50px;
+    height: auto;
+}
+
+#tableProducts{
+    margin: 30px 0;
+}
+
+#tableProducts th{
+    color: white;
+    text-align: center;
+}
+
+#tableProducts td{
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+}
